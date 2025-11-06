@@ -71,7 +71,6 @@ Performed using **Pandas** and **NumPy**:
 |------|----------|
 |  Python (Pandas, NumPy, Matplotlib) | Data Cleaning & EDA 
 |  Power BI | Dashboard & Storytelling 
-|  GitHub | Portfolio Hosting 
 |  Excel / CSV | Data Sources 
 
 ---
